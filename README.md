@@ -1,7 +1,7 @@
 ## Hi there， I'm XiYuan 👋
 
+[![blog_link](https://img.shields.io/badge/thoughts_sharing_here-%23495867?style=flat-square&logo=aseprite&logoColor=%2300878F&labelColor=%23495867)](https://github.com/xiyuan404/tech_insight/)
 
-[![blog](https://img.shields.io/badge/my_thoughts_shared_here?style=flat-square&logo=Markdown&logoColor=%23ECD53F&label=Blog&labelColor=%23495867&color=%23495867)](https://github.com/xiyuan404/tech_insight/)
 
 
 - ⚡ Javascript / React / Vue / Nest.js
