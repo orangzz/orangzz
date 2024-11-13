@@ -1,6 +1,8 @@
 ## Hi there， I'm XiYuan 👋
 
-[![Blog](https://img.shields.io/badge/dynamic/json?logo=Markdown&label=Blog&labelColor=495867&color=495867&style=flat-square)](https://github.com/xiyuan404/tech_insight/)
+
+[![blog](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=Markdown&logoColor=%23ECD53F&label=Blog&labelColor=%23495867&color=%23495867)](https://github.com/xiyuan404/tech_insight/)
+
 
 - ⚡ Javascript / React / Vue / Nest.js
 - 🌱 Try to be a fullstack enginner.
