@@ -25,7 +25,7 @@ Sonnie's Edge - Love, Death & Robots
 
 :muscle: Try to be a fullstack enginner.
 
-:pushpin:  hack.xiyaun@gmail.com
+:teddy_bear: reach me: hack.xiyaun@gmail.com
 
 **Sponse Me**
 
