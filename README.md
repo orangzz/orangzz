@@ -4,7 +4,7 @@
 Sonnie's Edge - Love, Death & Robots
 ```
 
-|   🤔 thoughts are sharing here  | https://github.com/xiyuan404/wiki/ |
+|   🤔 thoughts are sharing here  | https://github.com/lavitalite/wiki/ |
 | :------------: | :--------------------------------------------------|
 
 
