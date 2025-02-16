@@ -1,7 +1,7 @@
 ## Hi there， I'm XiYuan 👋
 
 ```
-Sonnie's Edge - Love, Death & Robots
+Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
 ```
 
 |   🤔 thoughts are sharing here  | https://github.com/lavitalite/wiki/ |
