@@ -8,6 +8,10 @@ Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
 | :------------: | :--------------------------------------------------|
 
 
+**Homebrew utils:**
+
+|   bump version  | https://www.npmjs.com/package/@ransom-utils/bump |
+| :------------: | :--------------------------------------------------|
 
 **Languages:**
 
