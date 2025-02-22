@@ -1,5 +1,16 @@
 # Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/lavitalite)](https://github.com/qoomon/starline)
 
+<!-- capsule waviing -->
+<div align="center">
+  <a href="https://">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=lavitalite&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
+       <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=lavitalite&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
+    </picture>
+  </a>
+</div>
+
 ```
 Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
 ```
@@ -40,7 +51,7 @@ Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
 
 <img width="360" src="https://github.com/user-attachments/assets/d433001b-a0ce-433b-bde8-af192451af2d" alt='pay-merge'></a>
 
-
+##
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 2 times." title="I pushed a commit with &quot;cafe&quot; 2 times." width="64"></a>
