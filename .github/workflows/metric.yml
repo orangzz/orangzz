@@ -1,7 +1,7 @@
 name: Metrics
 on: 
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch: 
   push:
     branches:
@@ -10,11 +10,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - shell: bash
-        env:
-          SUPER_SECRET: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          echo "$SUPER_SECRET"
       - name: Metrci1 
         uses: lowlighter/metrics@latest
         with:
@@ -66,7 +61,7 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_havits_days: yes
+          plugin_habits_days: yes
           plugin_habits_facts: yes
           plugin_habits_from: 200
 
