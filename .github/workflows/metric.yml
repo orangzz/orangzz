@@ -10,6 +10,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - shell: bash
+        env:
+          SUPER_SECRET: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          example-command "$SUPER_SECRET"
       - name: Metrci1 
         uses: lowlighter/metrics@latest
         with:
