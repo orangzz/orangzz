@@ -1,7 +1,7 @@
 name: Metrics
 on: 
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch: 
   push:
     branches: ["main"]
@@ -49,9 +49,8 @@ jobs:
           plugin_languages_ignored: html, css 
           plugin_languages_limit: 4
 
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
 
           
       - name: Metrics2 
