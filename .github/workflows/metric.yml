@@ -30,7 +30,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics1.svg
-          user: ${{ USER_NAME }}
+          user: ${{ env.USER_NAME }}
           base: header, activity, repositories, metadata
           config_timezone: Asia/Chongqing
           config_twemoji: yes
@@ -67,7 +67,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics2.svg
-          user: ${{ USER_NAME }}
+          user: ${{ env.USER_NAME }}
           base: ""
           config_timezone: Asia/Chongqing
           config_twemoji: yes
