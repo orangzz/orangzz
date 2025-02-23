@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: ${{env.TEST}}
         run: |
-          echo "$PRINT_ENV_SECRET ${{secrets}}"
+          echo "$PRINT_ENV_SECRET ${{secrets.METRICS_TOKEN}}"
           echo "$PRINT_REPO_SECRET ${{vars}}"
         env: 
           PRINT_ENV_SECRET: env secrets pipline ->
@@ -59,8 +59,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
 
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
           
       - name: Metrics2 
         uses: lowlighter/metrics@latest
