@@ -1,6 +1,6 @@
 # Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/lavitalite)](https://github.com/qoomon/starline)
 
-<!-- capsule waviing -->
+<!-- capsule  waviing header -->
 <div align="center">
   <a href="https://">
     <picture>
@@ -10,7 +10,13 @@
     </picture>
   </a>
 </div>
+<br>
 
+##
+<!-- trophy bar -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=lavitalite&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+##
 ```
 Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
 ```
