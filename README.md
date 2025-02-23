@@ -1,9 +1,15 @@
 # Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/lavitalite)](https://github.com/qoomon/starline)
+
+
+
+
+
+
 <!-- info grpah -->
-<p>
-  <img src="https://github.com/lavitalite/lavitalite/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/lavitalite/lavitalite/blob/main/metrics2.svg" width="48%" />
-</p>
+<div>
+<img src="https://github.com/lavitalite/lavitalite/blob/main/metrics1.svg" width="48%" />
+<img src="https://github.com/lavitalite/lavitalite/blob/main/metrics2.svg" width="48%" />
+</div>
 
 
 
@@ -17,26 +23,19 @@
     </picture>
   </a>
 </div> -->
-<br>
+
 
 ##
 <!-- trophy bar -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavitalite&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
-
-##
-```
-Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
-```
-
-|   🤔 thoughts are sharing here  | https://github.com/lavitalite/wiki/ |
-| :------------: | :--------------------------------------------------|
-
 
 **Homebrew utils:**
 
 |   bump version  | https://www.npmjs.com/package/@ransom-utils/bump |
 | :------------: | :--------------------------------------------------|
 
+
+##
 **Languages:**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
@@ -67,10 +66,11 @@ Every Time I Step Into That Ring, I"m Fighting For My Life - Sonnie's Edge
           alt="wechat pay">
     </a>
 </p>
-
+<!-- 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d433001b-a0ce-433b-bde8-af192451af2d" alt='pay-merge'></a>
 </p>
+-->
 <!-- 
 [![Alipay](https://img.shields.io/badge/Alipay-181926?style=flat-square&logo=Alipay&labelColor=181926)](https://github.com/user-attachments/assets/afd60b0a-86e3-4d45-8bbc-8003a6e4e456)
 [![Wechat](https://img.shields.io/badge/Wechat-181926?style=flat-square&logo=Wechat&labelColor=181926)](https://github.com/user-attachments/assets/8c57e9d1-8d0b-4dcf-9ae2-1619442b7887) -->
