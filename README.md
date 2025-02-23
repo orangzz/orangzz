@@ -6,10 +6,14 @@
 
 
 <!-- info grpah -->
-<div>
+<p>
+  <a href="#">
 <img src="https://github.com/lavitalite/lavitalite/blob/main/metrics1.svg" width="48%" />
+  </a>
+  <a href="#">
 <img src="https://github.com/lavitalite/lavitalite/blob/main/metrics2.svg" width="48%" />
-</div>
+  </a>
+</p>
 
 
 
