@@ -14,6 +14,8 @@ env:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     environment: production
     env: 
       TEST: print built-in secrets
@@ -25,7 +27,7 @@ jobs:
         env: 
           PRINT_ENV_SECRET: env secrets pipline ->
           PRINT_REPO_SECRET: repo secrets pipline ->
-      - name: Metrci1 
+      - name: Metrics1 
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
