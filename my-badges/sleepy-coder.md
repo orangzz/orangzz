@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/lavitalite/share-football/commit/94ef34b1af20c343261f02df15e3ce6035268492">94ef34b</a>
-- <a href="https://github.com/lavitalite/survey-master/commit/a5fb3e5243f84973bd1fac56baa0bcd9805c488b">a5fb3e5</a>
-- <a href="https://github.com/lavitalite/survey-master/commit/6c47e4106da62e70ec16ff4ce0211e20cafc6e2b">6c47e41</a>
-- <a href="https://github.com/lavitalite/imdb-clone/commit/513ca223e0d9a3cc554ebadfa4562389baac70f2">513ca22</a>
-- <a href="https://github.com/lavitalite/imdb-clone/commit/83769ccb6911ac330a57c240fa4fcd11d8333f5d">83769cc</a>
-- <a href="https://github.com/lavitalite/happy-buy/commit/aca4f81ea5cf2082f2226dab57ce96dd8494fc00">aca4f81</a>
+- <a href="https://github.com/lavitalite/promiseA-/commit/c085ea1fb9c6f7de29e82ae5f63aad83872bf192">c085ea1</a>
+- <a href="https://github.com/lavitalite/survey-master/commit/0d9a438e35808cba33918ff7d3701a6bd54d679c">0d9a438</a>
+- <a href="https://github.com/lavitalite/survey-master/commit/242d6568c232589f47172312049e1d0a47ba993b">242d656</a>
+- <a href="https://github.com/lavitalite/survey-master/commit/4e63ba4e4096cca3aa6db822761ec008101276c4">4e63ba4</a>
+- <a href="https://github.com/lavitalite/survey-master/commit/8020d758ae239b4742847cb44c4635a6d2b738cb">8020d75</a>
+- <a href="https://github.com/lavitalite/survey-master/commit/54c38e2b444f71e49ebcf192fc5de1ee63a007dd">54c38e2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

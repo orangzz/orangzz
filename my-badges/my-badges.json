@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 68 times)\n2. fix (used 65 times)\n3. version (used 38 times)\n4. deploy (used 32 times)\n5. page (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 74 times)\n2. fix (used 68 times)\n3. version (used 38 times)\n4. deploy (used 32 times)\n5. update (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,21 +87,28 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/share-football/commit/94ef34b1af20c343261f02df15e3ce6035268492\">94ef34b</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/a5fb3e5243f84973bd1fac56baa0bcd9805c488b\">a5fb3e5</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/6c47e4106da62e70ec16ff4ce0211e20cafc6e2b\">6c47e41</a>\n- <a href=\"https://github.com/lavitalite/imdb-clone/commit/513ca223e0d9a3cc554ebadfa4562389baac70f2\">513ca22</a>\n- <a href=\"https://github.com/lavitalite/imdb-clone/commit/83769ccb6911ac330a57c240fa4fcd11d8333f5d\">83769cc</a>\n- <a href=\"https://github.com/lavitalite/happy-buy/commit/aca4f81ea5cf2082f2226dab57ce96dd8494fc00\">aca4f81</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/promiseA-/commit/c085ea1fb9c6f7de29e82ae5f63aad83872bf192\">c085ea1</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/0d9a438e35808cba33918ff7d3701a6bd54d679c\">0d9a438</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/242d6568c232589f47172312049e1d0a47ba993b\">242d656</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/4e63ba4e4096cca3aa6db822761ec008101276c4\">4e63ba4</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/8020d758ae239b4742847cb44c4635a6d2b738cb\">8020d75</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/54c38e2b444f71e49ebcf192fc5de1ee63a007dd\">54c38e2</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/wiki/commit/e8f1b22e360ce6564dcd7f8130b07137f9bc9845\">e8f1b22</a>\n- <a href=\"https://github.com/lavitalite/wiki/commit/185fdf6cde3747c52f0d5edffcecea90937bd9bf\">185fdf6</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/2dcb5c76aa99820a5240e72d4360ea49f5a389b6\">2dcb5c7</a>\n- <a href=\"https://github.com/lavitalite/portfolio/commit/ad6aa3f03f4e22c6450a585a7235d58e22a0b531\">ad6aa3f</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/438e9c745952fbe0342cc4f4fbfc9e87cb8448e1\">438e9c7</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/0e21601d5b1684090650c74f97673c5b07eae1b2\">0e21601</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/share-football/commit/0ddf01e970686b01588043487962907bcbb2087a\">0ddf01e</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/77392f77c8bb140da2731726cf308d152004ec7d\">77392f7</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/8332e078a851925a06e6287f9da77acc0d621b66\">8332e07</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/7d8b9246f4394c8311f7392f4d3f5d35ecac6335\">7d8b924</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/56b02c28a30fa6d3b25eb6a4f6aafdecd42ecd03\">56b02c2</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/share-football/commit/0ddf01e970686b01588043487962907bcbb2087a\">0ddf01e</a>\n- <a href=\"https://github.com/lavitalite/promiseA-/commit/c085ea1fb9c6f7de29e82ae5f63aad83872bf192\">c085ea1</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/0d9a438e35808cba33918ff7d3701a6bd54d679c\">0d9a438</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/77392f77c8bb140da2731726cf308d152004ec7d\">77392f7</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/8332e078a851925a06e6287f9da77acc0d621b66\">8332e07</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/242d6568c232589f47172312049e1d0a47ba993b\">242d656</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/31c92b6bf18287bdb69b9ac262dc9bd6f4dcd9d0\">31c92b6</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/1720096bfdc68719af0713e33393e59fa94b9a2f\">1720096</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/9caaba71620149c35442e472d93b308d46692373\">9caaba7</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/d6a844df6ced79cdf9e77ed54370f6935e9a2a9b\">d6a844d</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/a6be8f3dcc79dac0ca7de1230cc13f2b58035c4b\">a6be8f3</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/e3491c8dceb4d8fa43ea814861e8538f453c08aa\">e3491c8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/survey-master/commit/aea8291fd0646b6384d4fe4f2d64745fb171b10c\">aea8291</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
