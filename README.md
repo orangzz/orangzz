@@ -1,4 +1,4 @@
-# Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/lavitalite)](https://github.com/qoomon/starline)
+# Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/0x3f1OpusExPavoTelos)](https://github.com/qoomon/starline)
 
 
 
@@ -8,10 +8,10 @@
 <!-- info grpah -->
 <p>
   <a href="#">
-<img src="https://github.com/lavitalite/lavitalite/blob/main/metrics1.svg" width="48%" />
+<img src="https://github.com/0x3f1OpusExPavoTelos/0x3f1OpusExPavoTelos/blob/main/metrics1.svg" width="48%" />
   </a>
   <a href="#">
-<img src="https://github.com/lavitalite/lavitalite/blob/main/metrics2.svg" width="48%" />
+<img src="https://github.com/0x3f1OpusExPavoTelos/0x3f1OpusExPavoTelos/blob/main/metrics2.svg" width="48%" />
   </a>
 </p>
 
@@ -22,8 +22,8 @@
   <a href="https://">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-        srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=lavitalite&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
-       <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=lavitalite&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=0x3f1OpusExPavoTelos&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
+       <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=0x3f1OpusExPavoTelos&desc=-🪐%20Crossing%20the%20Rubicon&descAlignY=65&descAlign=64">
     </picture>
   </a>
 </div> -->
@@ -31,7 +31,7 @@
 
 ##
 <!-- trophy bar -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavitalite&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0x3f1OpusExPavoTelos&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Homebrew utils:**
 
