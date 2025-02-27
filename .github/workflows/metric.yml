@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 
 env:
-  USER_NAME: lavitalite
+  USER_NAME: 0x3f1OpusExPavoTelos
 
 jobs:
   github-metrics:
