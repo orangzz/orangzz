@@ -3,63 +3,63 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/lavitalite/awesome-forum/commit/acb5d42caf23e82da15789fd9227ea8d61c73498\"><strong>a</strong>cb5d42caf23e82da15789fd9227ea8d61c73498</a>",
+    "body": "- <a href=\"https://github.com/0x3f1opusexpavotelos/awesome-forum/commit/acb5d42caf23e82da15789fd9227ea8d61c73498\"><strong>a</strong>cb5d42caf23e82da15789fd9227ea8d61c73498</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/lavitalite/ui/commit/34624e150730bbcd1031367cafe588f7c474f23e\">34624e150730bbcd1031367<strong>cafe</strong>588f7c474f23e</a>\n- <a href=\"https://github.com/lavitalite/wiki/commit/34624e150730bbcd1031367cafe588f7c474f23e\">34624e150730bbcd1031367<strong>cafe</strong>588f7c474f23e</a>",
+    "body": "- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/34624e150730bbcd1031367cafe588f7c474f23e\">34624e150730bbcd1031367<strong>cafe</strong>588f7c474f23e</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/wiki/commit/34624e150730bbcd1031367cafe588f7c474f23e\">34624e150730bbcd1031367<strong>cafe</strong>588f7c474f23e</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/adb1bb340a9f1f98e132ec08c190e86d6811fe28\">adb1bb3</a>: chore: rephrase quotes",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/adb1bb340a9f1f98e132ec08c190e86d6811fe28\">adb1bb3</a>: chore: rephrase quotes",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/wiki/commit/7ffd4e411bb27bf0cfb72748054db7d33723bb8b\">7ffd4e4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/wiki/commit/7ffd4e411bb27bf0cfb72748054db7d33723bb8b\">7ffd4e4</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 74 times)\n2. fix (used 68 times)\n3. version (used 38 times)\n4. deploy (used 32 times)\n5. update (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 74 times)\n2. fix (used 69 times)\n3. version (used 38 times)\n4. deploy (used 32 times)\n5. update (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/ui/commit/1ecd513f63901c41cac0a0c3f21da66b77cc8b7b\">1ecd513</a>: fix unauthorized\n- <a href=\"https://github.com/lavitalite/ui/commit/e4090135a13450ab29695e3022d0eddc54c3bca9\">e409013</a>: fix deploy path",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/1ecd513f63901c41cac0a0c3f21da66b77cc8b7b\">1ecd513</a>: fix unauthorized\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/e4090135a13450ab29695e3022d0eddc54c3bca9\">e409013</a>: fix deploy path",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 11 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/ui/commit/8086edf92bb92329ae923b22e000e905be1d395e\">8086edf</a>: fix with only linux build\n- <a href=\"https://github.com/lavitalite/ui/commit/3217855fbbd24194584eecd1066e6cdbcc670a9b\">3217855</a>: fix build id conflict\n- <a href=\"https://github.com/lavitalite/ui/commit/37546aa8e385e3b3d309131532afba65d66b05da\">37546aa</a>: fix vite config auto import missing error\n- <a href=\"https://github.com/lavitalite/ui/commit/07c9c674e0a7290c96830566ee9b8f192e676d19\">07c9c67</a>: fix add root install to deploy script\n- <a href=\"https://github.com/lavitalite/ui/commit/9e8f35570aa1eaa33d303519838adb232f1c2186\">9e8f355</a>: fix:  upgrade:pnpm version to support catalog feat\n- <a href=\"https://github.com/lavitalite/ui/commit/1c0cf0cedabb883cb8a3ce80105a8c66bfe51ee4\">1c0cf0c</a>: fix deploy script pnpm version\n- <a href=\"https://github.com/lavitalite/ui/commit/3aedc1c477f4307836fb7e90477dd0223bac90c9\">3aedc1c</a>: fix delpoy script job order:\n- <a href=\"https://github.com/lavitalite/ui/commit/4c279d97ef61f4258b920ab9ea29c188a0674aad\">4c279d9</a>: fix deploy script root\n- <a href=\"https://github.com/lavitalite/ui/commit/4a12aca8ba62126c896d88558c927b48ff81a6d0\">4a12aca</a>: fix deploy scripts pnpm version missing\n- <a href=\"https://github.com/lavitalite/ui/commit/9464ad24ce0255af7ff16d501626f4ccfcb3ddfc\">9464ad2</a>: fix deploy script indention\n- <a href=\"https://github.com/lavitalite/ui/commit/2df5f2c69913d1f56d4c4f5e09de52b6276578e6\">2df5f2c</a>: fix deploy scripts",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/8086edf92bb92329ae923b22e000e905be1d395e\">8086edf</a>: fix with only linux build\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/3217855fbbd24194584eecd1066e6cdbcc670a9b\">3217855</a>: fix build id conflict\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/37546aa8e385e3b3d309131532afba65d66b05da\">37546aa</a>: fix vite config auto import missing error\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/07c9c674e0a7290c96830566ee9b8f192e676d19\">07c9c67</a>: fix add root install to deploy script\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/9e8f35570aa1eaa33d303519838adb232f1c2186\">9e8f355</a>: fix:  upgrade:pnpm version to support catalog feat\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/1c0cf0cedabb883cb8a3ce80105a8c66bfe51ee4\">1c0cf0c</a>: fix deploy script pnpm version\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/3aedc1c477f4307836fb7e90477dd0223bac90c9\">3aedc1c</a>: fix delpoy script job order:\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/4c279d97ef61f4258b920ab9ea29c188a0674aad\">4c279d9</a>: fix deploy script root\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/4a12aca8ba62126c896d88558c927b48ff81a6d0\">4a12aca</a>: fix deploy scripts pnpm version missing\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/9464ad24ce0255af7ff16d501626f4ccfcb3ddfc\">9464ad2</a>: fix deploy script indention\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/2df5f2c69913d1f56d4c4f5e09de52b6276578e6\">2df5f2c</a>: fix deploy scripts",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/ui/commit/87677f21c4fd5fc568e58bab400b2d1849e4f93b\">87677f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/87677f21c4fd5fc568e58bab400b2d1849e4f93b\">87677f2</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/ui/commit/87677f21c4fd5fc568e58bab400b2d1849e4f93b\">87677f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/ui/commit/87677f21c4fd5fc568e58bab400b2d1849e4f93b\">87677f2</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -73,42 +73,42 @@
     "id": "self-star",
     "tier": 0,
     "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/lavitalite/wiki\">lavitalite/wiki</a>",
+    "body": "- <a href=\"https://github.com/0x3f1opusexpavotelos/wiki\">0x3f1opusexpavotelos/wiki</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/lavitalite/wiki/pull/1\">#1</a>: ready to deploy site alpha version\n- <a href=\"https://github.com/lavitalite/wiki/pull/4\">#4</a>: add repo-scope typescript dependencies",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/wiki/pull/1\">#1</a>: ready to deploy site alpha version\n- <a href=\"https://github.com/0x3f1opusexpavotelos/wiki/pull/4\">#4</a>: add repo-scope typescript dependencies",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/promiseA-/commit/c085ea1fb9c6f7de29e82ae5f63aad83872bf192\">c085ea1</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/0d9a438e35808cba33918ff7d3701a6bd54d679c\">0d9a438</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/242d6568c232589f47172312049e1d0a47ba993b\">242d656</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/4e63ba4e4096cca3aa6db822761ec008101276c4\">4e63ba4</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/8020d758ae239b4742847cb44c4635a6d2b738cb\">8020d75</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/54c38e2b444f71e49ebcf192fc5de1ee63a007dd\">54c38e2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/promiseA-/commit/c085ea1fb9c6f7de29e82ae5f63aad83872bf192\">c085ea1</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/0d9a438e35808cba33918ff7d3701a6bd54d679c\">0d9a438</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/242d6568c232589f47172312049e1d0a47ba993b\">242d656</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/4e63ba4e4096cca3aa6db822761ec008101276c4\">4e63ba4</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/8020d758ae239b4742847cb44c4635a6d2b738cb\">8020d75</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/54c38e2b444f71e49ebcf192fc5de1ee63a007dd\">54c38e2</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/share-football/commit/0ddf01e970686b01588043487962907bcbb2087a\">0ddf01e</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/77392f77c8bb140da2731726cf308d152004ec7d\">77392f7</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/8332e078a851925a06e6287f9da77acc0d621b66\">8332e07</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/7d8b9246f4394c8311f7392f4d3f5d35ecac6335\">7d8b924</a>\n- <a href=\"https://github.com/lavitalite/survey-master/commit/56b02c28a30fa6d3b25eb6a4f6aafdecd42ecd03\">56b02c2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/share-football/commit/0ddf01e970686b01588043487962907bcbb2087a\">0ddf01e</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/77392f77c8bb140da2731726cf308d152004ec7d\">77392f7</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/8332e078a851925a06e6287f9da77acc0d621b66\">8332e07</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/7d8b9246f4394c8311f7392f4d3f5d35ecac6335\">7d8b924</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/56b02c28a30fa6d3b25eb6a4f6aafdecd42ecd03\">56b02c2</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/31c92b6bf18287bdb69b9ac262dc9bd6f4dcd9d0\">31c92b6</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/1720096bfdc68719af0713e33393e59fa94b9a2f\">1720096</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/9caaba71620149c35442e472d93b308d46692373\">9caaba7</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/d6a844df6ced79cdf9e77ed54370f6935e9a2a9b\">d6a844d</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/a6be8f3dcc79dac0ca7de1230cc13f2b58035c4b\">a6be8f3</a>\n- <a href=\"https://github.com/lavitalite/lavitalite/commit/e3491c8dceb4d8fa43ea814861e8538f453c08aa\">e3491c8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/31c92b6bf18287bdb69b9ac262dc9bd6f4dcd9d0\">31c92b6</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/1720096bfdc68719af0713e33393e59fa94b9a2f\">1720096</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/9caaba71620149c35442e472d93b308d46692373\">9caaba7</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/d6a844df6ced79cdf9e77ed54370f6935e9a2a9b\">d6a844d</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/a6be8f3dcc79dac0ca7de1230cc13f2b58035c4b\">a6be8f3</a>\n- <a href=\"https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/e3491c8dceb4d8fa43ea814861e8538f453c08aa\">e3491c8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lavitalite/survey-master/commit/aea8291fd0646b6384d4fe4f2d64745fb171b10c\">aea8291</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/0x3f1opusexpavotelos/survey-master/commit/aea8291fd0646b6384d4fe4f2d64745fb171b10c\">aea8291</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

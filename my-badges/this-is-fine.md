@@ -4,8 +4,8 @@
 
 Pull requests:
 
-- <a href="https://github.com/lavitalite/wiki/pull/1">#1</a>: ready to deploy site alpha version
-- <a href="https://github.com/lavitalite/wiki/pull/4">#4</a>: add repo-scope typescript dependencies
+- <a href="https://github.com/0x3f1opusexpavotelos/wiki/pull/1">#1</a>: ready to deploy site alpha version
+- <a href="https://github.com/0x3f1opusexpavotelos/wiki/pull/4">#4</a>: add repo-scope typescript dependencies
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

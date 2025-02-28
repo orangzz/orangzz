@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/lavitalite/lavitalite/commit/adb1bb340a9f1f98e132ec08c190e86d6811fe28">adb1bb3</a>: chore: rephrase quotes
+- <a href="https://github.com/0x3f1opusexpavotelos/0x3f1opusexpavotelos/commit/adb1bb340a9f1f98e132ec08c190e86d6811fe28">adb1bb3</a>: chore: rephrase quotes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
