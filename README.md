@@ -33,10 +33,14 @@
 <!-- trophy bar -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=0x3f1OpusExPavoTelos&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Homebrew utils:**
+**Package utils:**
+
+实用工具包
 
 |   bump version  | https://www.npmjs.com/package/@ransom-utils/bump |
 | :------------: | :--------------------------------------------------|
+|   project scafolding  | https://www.npmjs.com/package/service-template |
+
 
 
 ##
