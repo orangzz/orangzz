@@ -39,7 +39,7 @@
 
 |   bump version  | https://www.npmjs.com/package/@ransom-utils/bump |
 | :------------: | :--------------------------------------------------|
-|   project scafolding  | https://www.npmjs.com/package/service-template |
+|  project starter scafolding  | https://www.npmjs.com/package/service-template |
 
 
 
@@ -58,7 +58,9 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-ea2845?logo=nestjs&logoColor=fff)
 
 
-:muscle: Try to be a fullstack enginner.
+:dna: Try to be a fullstack enginner.
+
+:test_tube: Solution Architect is cool too.
 
 
 **Sponse Me**
