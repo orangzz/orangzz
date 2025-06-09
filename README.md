@@ -1,4 +1,4 @@
-# Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/0x3f1OpusExPavoTelos)](https://github.com/qoomon/starline)
+# Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/uyaox)](https://github.com/qoomon/starline)
 
 
 
@@ -8,10 +8,10 @@
 <!-- info grpah -->
 <p>
   <a href="#">
-<img src="https://github.com/0x3f1OpusExPavoTelos/0x3f1OpusExPavoTelos/blob/main/metrics1.svg" width="48%" />
+<img src="https://github.com/uyaox/uyaox/blob/main/metrics1.svg" width="48%" />
   </a>
   <a href="#">
-<img src="https://github.com/0x3f1OpusExPavoTelos/0x3f1OpusExPavoTelos/blob/main/metrics2.svg" width="48%" />
+<img src="https://github.com/uyaox/uyaox/blob/main/metrics2.svg" width="48%" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ##
 <!-- trophy bar -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=0x3f1OpusExPavoTelos&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uyaox&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Package utils:**
 
