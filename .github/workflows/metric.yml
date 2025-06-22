@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 
 env:
-  USER_NAME: uyaox
+  USER_NAME: orangzz
 
 jobs:
   github-metrics:
