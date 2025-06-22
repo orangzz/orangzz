@@ -1,6 +1,3 @@
-# Hi there， I'm XiYuan 👋 [![starline](https://starlines.qoo.monster/assets/uyaox)](https://github.com/qoomon/starline)
-
-
 
 
 
