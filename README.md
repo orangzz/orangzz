@@ -28,7 +28,7 @@
 
 ##
 <!-- trophy bar -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=uyaox&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=orangzz&title=-Reviews&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Package utils:**
 
